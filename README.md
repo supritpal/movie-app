@@ -17,8 +17,7 @@ A React-based movie browsing application that fetches movie data using the TMDB 
 - TMDB API
 - CSS Modules / Custom CSS
 
-## 📷 Screenshots
-
-_Add a screenshot here if you have one:_
+## Live Demo...
+https://gajab-movies.netlify.app/
 
 
